@@ -1,7 +1,7 @@
+<h3 align="center"> 💻 Web_project - LinkWhatsApp - React.JS, TailwindCSS, Next.js and TypeScript </h3>
 
 
-
-<h2 align="center"> 💻 Project</h2>
+<h2 align="center"> 💻 LinkWhatsApp</h2>
 <div align="center">
  <img src="./src/img/proj.png" width="400px" alt="Home Image"/>
 </div>
@@ -42,11 +42,11 @@ To learn more about Next.js, take a look at the following resources:
 -------
 
 ## 🔖 Project on air
-You can visualize the project on air [link](https://reactjstailwindcss.netlify.app/  )
+You can visualize the project on air [link](https://linkwhatsapp.netlify.app/ )
 
 
 ## 🔖 Git Clone
-You can visualize the project [link]( https://github.com/ludiemert/react-tailwindcss.git )
+You can visualize the project [link]( https://github.com/ludiemert/linkwhatsapp.git )
 
 
 ---
