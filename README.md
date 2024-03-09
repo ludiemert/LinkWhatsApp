@@ -42,11 +42,11 @@ To learn more about Next.js, take a look at the following resources:
 -------
 
 ## 🔖 Project on air
-You can visualize the project on air [link](https://reactjstailwindcss.netlify.app/  )
+You can visualize the project on air [link](https://linkwhatsapp.netlify.app/ )
 
 
 ## 🔖 Git Clone
-You can visualize the project [link]( https://github.com/ludiemert/react-tailwindcss.git )
+You can visualize the project [link]( https://github.com/ludiemert/linkwhatsapp.git )
 
 
 ---
