@@ -58,7 +58,7 @@ const Home: NextPage = () => {
 
 
       <div className="mt-28">
-        <LinkWhatsApp number="551999999999" message="Olá! Gostaria de mais informações." />
+        <LinkWhatsApp number="551999xxxxxx" message="Olá! Gostaria de mais informações." />
       </div>
 
 
