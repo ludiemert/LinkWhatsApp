@@ -3,7 +3,7 @@
 
 <h2 align="center"> 💻 LinkWhatsApp</h2>
 <div align="center">
- <img src="./src/img/proj.png" width="400px" alt="Home Image"/>
+ <img src="./src/img/Project_WhatsApp.png" width="400px" alt="Home Image"/>
 </div>
 
 
