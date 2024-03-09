@@ -17,10 +17,10 @@ const Home: NextPage = () => {
   };
 
   return (
-    <div className="bg-slate-700 flex min-h-screen flex-col items-center justify-center py-2">
+    <div className="bg-slate-700 flex min-h-screen flex-col items-center justify-center  py-2">
 
 
-      <form onSubmit={generateWhatsAppLink} className="w-full max-w-xs">
+      <form onSubmit={generateWhatsAppLink} className="w-full max-w-xs border-2 border-white py-4 px-4 ">
         <div className="mb-4">
           <label htmlFor="phone" className="text-white y-100 block text-sm font-medium">
             Número do WhatsApp
