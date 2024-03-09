@@ -1,4 +1,4 @@
-<h1 align="center"> 💻 Web_project - LinkWhatsApp - React.JS, TailwindCSS, Next.js and TypeScript </h1>
+<h3 align="center"> 💻 Web_project - LinkWhatsApp - React.JS, TailwindCSS, Next.js and TypeScript </h3>
 
 
 <h2 align="center"> 💻 LinkWhatsApp</h2>
