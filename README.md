@@ -42,7 +42,7 @@ To learn more about Next.js, take a look at the following resources:
 -------
 
 ## 🔖 Project on air
-You can visualize the project on air [link](https://linkwhatsapp.netlify.app/ )
+You can visualize the project on air [link](https://whatsapplinkk.netlify.app/ )
 
 
 ## 🔖 Git Clone
