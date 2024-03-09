@@ -17,12 +17,12 @@ const Home: NextPage = () => {
   };
 
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center py-2">
+    <div className="bg-slate-700 flex min-h-screen flex-col items-center justify-center py-2">
 
 
       <form onSubmit={generateWhatsAppLink} className="w-full max-w-xs">
         <div className="mb-4">
-          <label htmlFor="phone" className="block text-sm font-medium text-gray-700">
+          <label htmlFor="phone" className="text-white y-100 block text-sm font-medium">
             Número do WhatsApp
           </label>
           <input
@@ -36,7 +36,7 @@ const Home: NextPage = () => {
         </div>
 
         <div className="mb-4">
-          <label htmlFor="message" className="block text-sm font-medium text-gray-700">
+          <label htmlFor="message" className="block text-sm font-medium text-white">
             Mensagem inicial
           </label>
           <textarea
