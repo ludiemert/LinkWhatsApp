@@ -1,7 +1,7 @@
+<h1 align="center"> 💻 Web_project - LinkWhatsApp - React.JS, TailwindCSS, Next.js and TypeScript </h1>
 
 
-
-<h2 align="center"> 💻 Project</h2>
+<h2 align="center"> 💻 LinkWhatsApp</h2>
 <div align="center">
  <img src="./src/img/proj.png" width="400px" alt="Home Image"/>
 </div>
