@@ -1,7 +1,7 @@
 import LinkWhatsApp from './components/LinkWhatsApp';
 import FormWhatsApp from './components/FormWhatsApp';
 
-export function Home() {
+const Home = () => {
 
   return (
 
